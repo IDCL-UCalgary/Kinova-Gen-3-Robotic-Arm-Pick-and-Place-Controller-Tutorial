@@ -13,7 +13,7 @@ The Lab is directed by Dr. Mahdis Bisheban. For more research and open-source co
 - [Daljot Gill](https://www.linkedin.com/in/daljot-gill-a598a9254/), 
 - [Loida Perez](https://www.linkedin.com/in/loida-perez/), and
 - [Usama Rasheed](https://www.linkedin.com/in/usama-rasheed-8804bb5a/)
-- Sponsered and Supervised by Dr. Mahdis Bisheban
+- Sponsored and Supervised by Dr. Mahdis Bisheban
 - Advised by Dr. Peter Goldsmith 
 
 
