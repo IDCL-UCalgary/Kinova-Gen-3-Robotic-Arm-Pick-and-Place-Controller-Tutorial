@@ -1,7 +1,22 @@
 # Design and Implementation of a Pick and Place Controller for the Kinova Gen 3 Arm
 
-## Created by University of Calgary ENME 501/502 Group 23
 
+## Affiliations
+This repository was published as part of a Capstone Deaign Course project sponsered in the [Intelligent Dynamics and Control Lab](https://ucalgary.ca/labs/intelligent-dynamics-control-lab), [Department of Mechanical and Manufacturing Engineering](https://schulich.ucalgary.ca/mechanical-manufacturing), Schulich School of Engineering, University of Calgary, under the supervision of [Dr. Mahdis Bisheban](https://profiles.ucalgary.ca/mahdis-bisheban). 
+
+The Lab is directed by Dr. Mahdis Bisheban. For more research and open-source contributions, please visit [IDCL Lab GitHub page](https://github.com/IDCL-UCalgary)
+
+## Contributors
+- Abdullah Al Barat 
+- Cassandra Gut 
+- Cyril Justin 
+- Daljot Gill 
+- Loida Perez
+- Usama Rasheed
+- Sponsered and Supervised by Dr. Mahdis Bisheban
+
+
+## Created by University of Calgary ENME 501/502 Group 23
 This GitHub Repository contains a collection of all the work completed through the course of this project. This work is presented in a simple, in-depth, concise, and educational way through a set of Jupyter Notebook Tutorials. These tutorials will help allow robotic enthusiasts, students, and researchers interested in the robotics of object manipulation to gain an understanding of the robotics and mathematics behind it all. 
 
 We have broken down these tutorials into three sections. The tables below contain subsections for each of these parts along with direct links to the Jupyter Notebook Tutorials.
