@@ -2,17 +2,17 @@
 
 
 ## Affiliations
-This repository was published as part of a Capstone Deaign Course project sponsered in the [Intelligent Dynamics and Control Lab](https://ucalgary.ca/labs/intelligent-dynamics-control-lab), [Department of Mechanical and Manufacturing Engineering](https://schulich.ucalgary.ca/mechanical-manufacturing), Schulich School of Engineering, University of Calgary, under the supervision of [Dr. Mahdis Bisheban](https://profiles.ucalgary.ca/mahdis-bisheban). 
+This repository was published as part of a Capstone Deaign Course project sponsered in the [Intelligent Dynamics and Control Lab](https://ucalgary.ca/labs/intelligent-dynamics-control-lab), [Department of Mechanical and Manufacturing Engineering](https://schulich.ucalgary.ca/mechanical-manufacturing), Schulich School of Engineering, University of Calgary, under the supervision of [Dr. Mahdis Bisheban](https://profiles.ucalgary.ca/mahdis-bisheban). The repository is adapted from references cited at the end of the readme.
 
 The Lab is directed by Dr. Mahdis Bisheban. For more research and open-source contributions, please visit [IDCL Lab GitHub page](https://github.com/IDCL-UCalgary)
 
 ## Contributors
-- Abdullah Al Barat 
-- Cassandra Gut 
-- Cyril Justin 
-- Daljot Gill 
-- Loida Perez
-- Usama Rasheed
+- [Abdullah Barat](https://www.linkedin.com/in/abdullah-al-barat/), 
+- [Cassandra Gut](https://www.linkedin.com/in/cassandra-gut/), 
+- [Cyril Justin](https://www.linkedin.com/in/cyril-justin/), 
+- [Daljot Gill](https://www.linkedin.com/in/daljot-gill-a598a9254/), 
+- [Loida Perez](https://www.linkedin.com/in/loida-perez/), and
+- [Usama Rasheed](https://www.linkedin.com/in/usama-rasheed-8804bb5a/)
 - Sponsered and Supervised by Dr. Mahdis Bisheban
 - Advised by Dr. Peter Goldsmith 
 
@@ -60,13 +60,14 @@ First and foremost, we would like to express our heartfelt appreciation to the m
 - [Daljot Gill](https://www.linkedin.com/in/daljot-gill-a598a9254/), 
 - [Loida Perez](https://www.linkedin.com/in/loida-perez/), and
 - [Usama Rasheed](https://www.linkedin.com/in/usama-rasheed-8804bb5a/). 
-  Their dedication, hard work, and expertise were instrumental in every aspect of this project.
+
+Their dedication, hard work, and expertise were instrumental in every aspect of this project.
 
 We are also deeply thankful for the invaluable support and guidance provided by our sponsor Dr. Bisheban and advisor Dr. Goldsmith. Their wisdom, mentorship, and encouragement throughout this journey significantly enriched our understanding and enhanced the quality of our work.<br>
 Furthermore, we are indebted to our capstone professor, Dr.Thekinen and Teaching Assistant Danyal Saqib, for their contributions and unwavering belief in our project empowered us to overcome challenges and achieve our goals.
 
-We would also like to acknowledge the Intelligent Dynamics and Control Lab at the University of Calgary [https://intelligentdynamicscontrollab.dreamhosters.com/], <br> 
-particularly for providing us with the necessary resources, facilities, and environment conducive to our research and development efforts.<br>
+We would also like to acknowledge [the Intelligent Dynamics and Control Lab](https://intelligentdynamicscontrollab.dreamhosters.com/) at the University of Calgary 
+particularly for providing us with the necessary resources, facilities, and environment conducive to our research and development efforts.
 
 Last but not least, we extend our gratitude to all those who supported us behind the scenes, including our families, friends, and colleagues, for their unwavering encouragement and understanding during this undertaking.
 Thank you to everyone who played a part in bringing this project to fruition. Your contributions have made a lasting impact, and we are immensely grateful for your support and collaboration.<br>
