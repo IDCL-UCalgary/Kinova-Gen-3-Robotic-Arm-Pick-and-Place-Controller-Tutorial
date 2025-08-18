@@ -130,6 +130,9 @@ For students wishing to access the avaiable Kinova gen 3 arm on campus, located 
 
 The first step is to complete the general access training, which will give university students access to the M2 D2L BRIGHTSPACE shell on their university accounts. After completing the training and getting access, students will then complete the required quizzes and safety on-boarding in the advanced skills and training modules that will expand their access.
 
+## Funding Sources
+This work was supported by the Natural Sciences and Engineering Research Council of Canada (NSERC), the Government of Alberta, Alberta Innovates, and the Schulich School of Engineering at the University of Calgary. Funding was awarded to Dr. Mahdis Bisheban, Director of the Intelligent Dynamics and Control Lab (IDCL) and Assistant Professor at the University of Calgary.
+
 ## References
 
 1.
